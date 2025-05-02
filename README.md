@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Divyesh0106
-- 👀 I’m interested in Javascript | NodeJs | Cloud Services (Aws) | ReactJs | AngularJs | Typescript | Backend | Fullstack | SQL | MongoDB | OrientDB
+- 👀 I’m interested in Javascript | NodeJs | Cloud Services (Aws) | ReactJs | Typescript | Backend | Fullstack | SQL | MongoDB | OrientDB
 - 🌱 I’m looking for growth opportunities in development roles related to above skills.
 
 <!---
